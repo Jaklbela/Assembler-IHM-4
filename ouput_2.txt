@@ -1,0 +1,22 @@
+Guest check in the room number 1
+Guest in the room number 1 has 20 days left
+Guest in the room number 1 has 19 days left
+Guest in the room number 1 has 18 days left
+Guest in the room number 1 has 17 days left
+Guest in the room number 1 has 16 days left
+Guest in the room number 1 has 15 days left
+Guest in the room number 1 has 14 days left
+Guest in the room number 1 has 13 days left
+Guest in the room number 1 has 12 days left
+Guest in the room number 1 has 11 days left
+Guest in the room number 1 has 10 days left
+Guest in the room number 1 has 9 days left
+Guest in the room number 1 has 8 days left
+Guest in the room number 1 has 7 days left
+Guest in the room number 1 has 6 days left
+Guest in the room number 1 has 5 days left
+Guest in the room number 1 has 4 days left
+Guest in the room number 1 has 3 days left
+Guest in the room number 1 has 2 days left
+Guest in the room number 1 has 1 days left
+Guest check out room number 1
