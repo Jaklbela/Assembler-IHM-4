@@ -1,0 +1,64 @@
+Guest check in the room number 1
+Guest in the room number 1 has 4 days left
+Guest in the room number 1 has 3 days left
+Guest in the room number 1 has 2 days left
+Guest in the room number 1 has 1 days left
+Guest check out room number 1
+Guest check in the room number 2
+Guest in the room number 2 has 5 days left
+Guest in the room number 2 has 4 days left
+Guest in the room number 2 has 3 days left
+Guest in the room number 2 has 2 days left
+Guest in the room number 2 has 1 days left
+Guest check out room number 2
+Guest check in the room number 3
+Guest in the room number 3 has 9 days left
+Guest in the room number 3 has 8 days left
+Guest in the room number 3 has 7 days left
+Guest in the room number 3 has 6 days left
+Guest in the room number 3 has 5 days left
+Guest in the room number 3 has 4 days left
+Guest in the room number 3 has 3 days left
+Guest in the room number 3 has 2 days left
+Guest in the room number 3 has 1 days left
+Guest check out room number 3
+Guest check in the room number 4
+Guest in the room number 4 has 10 days left
+Guest in the room number 4 has 9 days left
+Guest in the room number 4 has 8 days left
+Guest in the room number 4 has 7 days left
+Guest in the room number 4 has 6 days left
+Guest in the room number 4 has 5 days left
+Guest in the room number 4 has 4 days left
+Guest in the room number 4 has 3 days left
+Guest in the room number 4 has 2 days left
+Guest in the room number 4 has 1 days left
+Guest check out room number 4
+Guest check in the room number 5
+Guest in the room number 5 has 2 days left
+Guest in the room number 5 has 1 days left
+Guest check out room number 5
+Guest check in the room number 1
+Guest in the room number 1 has 6 days left
+Guest in the room number 1 has 5 days left
+Guest in the room number 1 has 4 days left
+Guest in the room number 1 has 3 days left
+Guest in the room number 1 has 2 days left
+Guest in the room number 1 has 1 days left
+Guest check out room number 1
+Guest check in the room number 6
+Guest in the room number 6 has 5 days left
+Guest in the room number 6 has 4 days left
+Guest in the room number 6 has 3 days left
+Guest in the room number 6 has 2 days left
+Guest in the room number 6 has 1 days left
+Guest check out room number 6
+Guest check in the room number 7
+Guest in the room number 7 has 7 days left
+Guest in the room number 7 has 6 days left
+Guest in the room number 7 has 5 days left
+Guest in the room number 7 has 4 days left
+Guest in the room number 7 has 3 days left
+Guest in the room number 7 has 2 days left
+Guest in the room number 7 has 1 days left
+Guest check out room number 7
